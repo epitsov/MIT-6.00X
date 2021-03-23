@@ -1,2 +1,2 @@
 # MIT-6.00X
-Currently doing the MIT 6.00x course. I will be uploading my progress here.
+My Solutions for MIT 6.001X. I found the course helpful, because i did not have enough Python experience and this allowed me to dive into Python. Expect the last week, where we did OOP in Python an Algorithms, i found the course easy. The last week helped me to practice OOP more and showed me how to evaluate different algorithms. Overall i am pleased with the new things i learned in the course.
